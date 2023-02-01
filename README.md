@@ -26,4 +26,4 @@
   <a href="https://www.linkedin.com/in/ryan-gregorio-28941b253/" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>  
-![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ryanpgregorio/ryanpgregorio/blob/output/github-contribution-grid-snake.svg)
