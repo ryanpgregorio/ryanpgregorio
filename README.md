@@ -8,7 +8,6 @@
 
 <p align="left">
   Languages:
-
   <div style="display: inline_block">
   <img align="center" alt="ryan-py" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
 </div>
@@ -26,4 +25,3 @@
   <a href="https://www.linkedin.com/in/ryan-gregorio-28941b253/" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>  
-![snake gif] (https://github.com/ryanpgregorio/ryanpgregorio/blob/output/github-contribution-grid-snake.svg)
