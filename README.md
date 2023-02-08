@@ -3,7 +3,7 @@
 
 <p align="left"> 
   My name is Ryan and I'm a <strong>Python</strong> developer.<br>
->   I'm doing the second year of middle school🎓.
+  I'm doing the second year of middle school🎓.
 </p>
 
 <p align="left">
